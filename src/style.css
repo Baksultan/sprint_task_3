@@ -1,0 +1,52 @@
+.main {
+    display: flex;
+    margin: auto;
+    align-items: end;
+    justify-content: center;
+    padding: 20px 20px 20px 20px;
+    margin-top: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+}
+
+.items {
+    display: flex;
+    align-items: end;
+}
+
+
+
+
+.first_items input {
+    width: 120px;
+    margin-right: 10px;
+    height: 22px;
+}
+
+.first_items select {
+    height: 27px;
+}
+
+.first_items {
+    display: flex;
+    justify-content: center;
+    align-items: end;
+    width: 31%;
+    margin-right: 10px;
+}
+
+.second_items {
+    width: 23%;
+    margin-right: 20px;
+}
+
+.second_items input {
+    width: 150px;
+    height: 22px;
+    background-color: #E9ECEF;
+}
+
+.second_items p {
+    font-weight: bold;
+}
+
